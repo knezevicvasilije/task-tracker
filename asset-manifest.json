@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/task-tracker/static/css/main.d3156bfe.chunk.css",
+    "main.js": "/github.io/task-tracker/static/js/main.c4dbe58b.chunk.js",
+    "main.js.map": "/github.io/task-tracker/static/js/main.c4dbe58b.chunk.js.map",
+    "runtime-main.js": "/github.io/task-tracker/static/js/runtime-main.feb9fab5.js",
+    "runtime-main.js.map": "/github.io/task-tracker/static/js/runtime-main.feb9fab5.js.map",
+    "static/js/2.de591d65.chunk.js": "/github.io/task-tracker/static/js/2.de591d65.chunk.js",
+    "static/js/2.de591d65.chunk.js.map": "/github.io/task-tracker/static/js/2.de591d65.chunk.js.map",
+    "static/js/3.fb4cf8b6.chunk.js": "/github.io/task-tracker/static/js/3.fb4cf8b6.chunk.js",
+    "static/js/3.fb4cf8b6.chunk.js.map": "/github.io/task-tracker/static/js/3.fb4cf8b6.chunk.js.map",
+    "index.html": "/github.io/task-tracker/index.html",
+    "static/css/main.d3156bfe.chunk.css.map": "/github.io/task-tracker/static/css/main.d3156bfe.chunk.css.map",
+    "static/js/2.de591d65.chunk.js.LICENSE.txt": "/github.io/task-tracker/static/js/2.de591d65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb9fab5.js",
+    "static/js/2.de591d65.chunk.js",
+    "static/css/main.d3156bfe.chunk.css",
+    "static/js/main.c4dbe58b.chunk.js"
+  ]
+}
