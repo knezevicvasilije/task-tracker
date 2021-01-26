@@ -24,12 +24,13 @@ function App() {
       },
     
 ])
-//Add Task
+//Add Task fj
 const addTask = (task) => {
  const id = Math.floor(Math.random()*10000)+1
  const newTask = {id, ...task}
  setTasks([...tasks, newTask])
 }
+
 //Delete Task
 const deleteTask = (id) => {
 setTasks(tasks.filter((task) => task.id !== id))
