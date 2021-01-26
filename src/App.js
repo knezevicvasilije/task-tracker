@@ -18,10 +18,14 @@ function App() {
             reminder: true,
         },
         {id: 3,
-            text: 'Food Shopping',
-            day: 'Feb 5th at 2:30pm',
-            reminder: false,
-        },
+          text: 'Food Shopping',
+          day: 'Feb 5th at 2:30pm',
+          reminder: false,
+      },   {id:4,
+        text: 'Working Out',
+        day: 'Feb 5th at 5:30pm',
+        reminder: false,
+    },
     
 ])
 //Add Task
