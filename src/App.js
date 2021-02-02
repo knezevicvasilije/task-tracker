@@ -13,7 +13,7 @@ function App() {
       day: "Feb 6. u 14:30",
       reminder: true
     },
-    { id: 3, text: "Food Shopping", day: "Feb 5th at 2:30pm", reminder: false }
+    { id: 3, text: "Kupovina hrane", day: "Feb 5. u 19:30", reminder: false }
   ]);
   //Add Task fj
   const addTask = (task) => {
