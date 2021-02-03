@@ -9,10 +9,11 @@ function App() {
     {
       id: 2,
       text: "Pregled kod zubara",
-      day: "Feb 6. u 14:30",
+      day: "Feb 5. u 14:30",
       reminder: true
     },
-    { id: 3, text: "Kupovina hrane", day: "Feb 5. u 19:30", reminder: false }
+    { id: 3, text: "Kupovina hrane", day: "Feb 5. u 19:30", reminder: false },
+    { id: 4, text: "Setnja", day: "Feb 6th at 16:30", reminder: false }
   ]);
   //Add Task fj
   const addTask = (task) => {
