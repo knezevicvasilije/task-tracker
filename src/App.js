@@ -7,6 +7,7 @@ function App() {
   const [tasks, setTasks] = useState([
     { id: 1, text: "Trening", day: "Feb 5. u 12:30", reminder: true },
     {
+      //test
       id: 2,
       text: "Pregled kod zubara",
       day: "Feb 5. u 14:30",
